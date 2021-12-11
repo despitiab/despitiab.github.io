@@ -3,7 +3,8 @@
 $(document).ready(function(){
    
     'use strict';
-    
+
+    /* ACCIONES PARA DESPLAZAMIENTO DE NAVBAR
     $(window).scroll(function() {
         
         'use strict';
@@ -52,7 +53,7 @@ $(document).ready(function(){
        
         
     });
-    
+    */
     
 });
 
