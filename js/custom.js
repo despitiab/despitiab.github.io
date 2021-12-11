@@ -7,6 +7,17 @@ $(document).ready(function(){
     $(window).scroll(function() {
         
         'use strict';
+
+        
+        var scrollHeight = $(document).height();
+        var scrollPosition = $(window).height() + $(window).scrollTop();
+        if (scrollPosition === 0) {
+            $('.navbar').css ({
+                'margin-top': '0px',
+                 'opacity': '1'
+                 
+             });
+        }
         
         if($(window).scrollTop() < 80 ) {
             
