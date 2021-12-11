@@ -9,15 +9,15 @@ $(document).ready(function(){
         'use strict';
 
         
-        var scrollHeight = $(document).height();
-        var scrollPosition = $(window).height() + $(window).scrollTop();
-        if (scrollPosition === 0) {
-            $('.navbar').css ({
-                'margin-top': '0px',
-                 'opacity': '1'
-                 
-             });
-        }
+        var heightPage = $(document).height();
+
+            if(($(window).scrollTop() + $(window).height()) == heightPage) {
+                $('.navbar').css ({
+                    'margin-top': '0px',
+                     'opacity': '1'
+                     
+                 });
+            }      
         
         if($(window).scrollTop() < 80 ) {
             
