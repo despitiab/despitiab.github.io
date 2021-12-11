@@ -8,7 +8,7 @@ $(document).ready(function(){
         
         'use strict';
 
-        if($(window).scrollTop() === 0 ) {
+        if($(window).scrollTop() == 0 ) {
             $('.navbar').css ({
                 'margin-top': '0px',
                  'opacity': '1'
