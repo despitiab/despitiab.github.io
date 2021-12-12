@@ -168,7 +168,6 @@ $(document).ready(function() {
         mode: 'fade',
         captions: true,
         slideWidth: 600,
-        adaptiveHeight: true,
         touchEnabled: true
     });
     
