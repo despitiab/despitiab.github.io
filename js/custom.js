@@ -165,11 +165,14 @@ $(document).ready(function() {
     
     $('.bxslider').bxSlider({
         
-        slideWidth: 292.5,
+        slideWidth: 300,
         auto: true,
         minSlides: 1, 
         maxSlides: 3, 
-        slideMargin: 50
+        slideMargin: 50,
+        shrinkItems : true,
+        controls: true,
+        oneToOneTouch: true
     });
     
 });
