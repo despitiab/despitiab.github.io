@@ -165,12 +165,11 @@ $(document).ready(function() {
     
     $('.bxslider').bxSlider({
         
-        slideWidth: 300,
+        slideWidth: 275,
         auto: true,
         minSlides: 1, 
         maxSlides: 4, 
-        slideMargin: 50,
-        moveSlides: 1
+        slideMargin: 30
     });
     
 });
