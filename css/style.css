@@ -51,6 +51,8 @@ p {
 .row {
     text-align: center;
     text-align: -moz-center;
+    text-align: -webkit-center;
+    text-align: -o-center;
 }
 
 /* =========== Navigation ============ */
