@@ -167,7 +167,8 @@ $(document).ready(function() {
         
         mode: 'fade',
         captions: true,
-        slideWidth: 600
+        slideWidth: 600,
+        adaptiveHeight: true
     });
     
 });
