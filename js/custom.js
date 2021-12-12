@@ -165,10 +165,10 @@ $(document).ready(function() {
     
     $('.bxslider').bxSlider({
         
-        slideWidth: 275,
+        slideWidth: 300,
         auto: true,
         minSlides: 1, 
-        maxSlides: 4, 
+        maxSlides: 3, 
         slideMargin: 30
     });
     
