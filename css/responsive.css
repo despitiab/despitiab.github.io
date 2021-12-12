@@ -3,8 +3,8 @@
     
     .navbar-default {
         
-        background-color: #fff !important;
-        border-color: #e6e6e6;
+        background-color: rgba(59, 59 , 59, 0.7) !important;
+        border-color: #444;
     }
     .about-iphone img {
         width: 100%;
