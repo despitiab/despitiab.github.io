@@ -651,8 +651,15 @@ p {
 }
 */
 
+.frame-ig {
+    width: inherit;
+    height: inherit;
+}
 
-
+.bxslider > .item {
+    width: inherit;
+    height: inherit;
+}
 
 
 
