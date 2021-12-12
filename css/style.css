@@ -661,6 +661,9 @@ p {
     height: inherit;
 }
 
+.slider{
+    height: 600px;
+}
 
 
 
