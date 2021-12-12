@@ -665,6 +665,9 @@ p {
     height: 600px;
 }
 
+.height-inherit{
+    height: inherit;
+}
 
 
 
