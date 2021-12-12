@@ -168,7 +168,7 @@ $(document).ready(function() {
         slideWidth: 300,
         auto: true,
         minSlides: 1, 
-        maxSlides: 3, 
+        maxSlides: 4, 
         slideMargin: 50,
         moveSlides: 1
     });
