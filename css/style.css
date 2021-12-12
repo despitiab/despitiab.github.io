@@ -669,6 +669,13 @@ p {
     height: inherit;
 }
 
+.bx-viewport{
+    height: 640px;
+}
+
+.bx-wrapper{
+    height: 640px;
+}
 
 
 
