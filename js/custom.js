@@ -170,9 +170,7 @@ $(document).ready(function() {
         minSlides: 1, 
         maxSlides: 3, 
         slideMargin: 50,
-        shrinkItems : true,
-        controls: true,
-        oneToOneTouch: true
+        moveSlides: 1
     });
     
 });
