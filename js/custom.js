@@ -165,11 +165,9 @@ $(document).ready(function() {
     
     $('.bxslider').bxSlider({
         
-        slideWidth: 300,
-        auto: true,
-        minSlides: 1, 
-        maxSlides: 3, 
-        slideMargin: 30
+        mode: 'fade',
+        captions: true,
+        slideWidth: 600
     });
     
 });
