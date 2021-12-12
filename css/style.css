@@ -660,7 +660,7 @@ p {
 
 .frame-ig {
     width: inherit;
-    height: inherit;
+    height: 640px;
 }
 
 .slider{
