@@ -14,6 +14,14 @@
         text-align: center;
         padding-top: 50px;
     }
+
+    .bx-viewport{
+        height: 440px;
+    }
+    
+    .bx-wrapper{
+        height: 450px;
+    }
 }
 
 /* Small Devices And Tablets */
