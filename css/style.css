@@ -209,8 +209,8 @@ p {
     content: "";
     position: absolute;
     bottom: -12px;
-    left: 0;
-    width: 70px; 
+    left: 36%;
+    width: 150px; 
     height: 1px;
     background-color: #129CF3;
 }
