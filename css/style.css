@@ -230,6 +230,9 @@ p {
     position: absolute;
     top: 0;
     left: 0;
+    text-align: -moz-center;
+    text-align: -webkit-center;
+    text-align: -o-center;
 }
 .choose-us-item div i {
     font-size: 55px;
@@ -244,11 +247,13 @@ p {
     text-transform: uppercase;
     font-size: 20px;
     font-weight: 800;
+    text-align: justify;
 }
 
 .choose-us-item p {
     color: #727272;
     font-size: 15px;
+    text-align: justify;
 } 
 /* ========= Testimonials ============= */
 .testimonial {
